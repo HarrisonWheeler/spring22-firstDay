@@ -1,0 +1,30 @@
+body{
+  background-color: olivedrab;
+}
+
+.d-flex{
+  display: flex;
+}
+
+.column{
+  flex-direction: column;
+  width: 33%;
+}
+
+img{
+  height: 25vh;
+  width: 30vw;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.justify-content-center{
+  justify-content: center;
+}
+
+.red-bull{
+  height: 45vh;
+  width: 55vw;
+}
